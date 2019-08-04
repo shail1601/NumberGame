@@ -1,16 +1,14 @@
 /*
 *
-* Name: Ernst Mach
-* Project: Number Guessing Game
-* Date: November 15, 2017
+* Name: Shail Thakkar
+* Project: Guessing Game
+* Date:July 4th, 2019
 * Description: A number guessing game that randomly picks a number from 1-100.
-* The user has 100 tries to get the correct answer. The application tracks the number 
-* of tries that the user has taken a prints different messages to the screen depending
-* on how many times the user has guessed. Additional features include total time, sounds, 
-* error handeling, able to set range of values, prints different messages based on amount
-* of tries, indicates if the number you guess is higher or lower than the actual number, 
-* clears the screen whenever the aplication starts, and includes ASCII art.
-*
+  The user has 100 tries to get the correct answer. The application tracks the number 
+  of tries that the user has taken and prints different messages to the screen depending
+  on how many times the user has guessed. Additional features include total time, sounds, 
+  error handeling, able to set range of values, prints different messages based on amount
+ of tries, and indicates if the number you guess is higher or lower than the actual number.
 */
 
 #include <stdio.h>
